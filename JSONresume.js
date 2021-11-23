@@ -1,5 +1,5 @@
 var resume = {
-  "basics": {
+  "basics_info": {
     "name": "Tamil Selvan S",
     "email": "tamilselvanyes@gmail.com",
     "phone": "9894891316",
