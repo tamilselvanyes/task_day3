@@ -41,8 +41,8 @@ var resume = {
     },
   "Project": 
     {
-      "College_Project_1": "•	Microcontroller based Home Security System Using GSM technology",
-      "College_Project_2": "•	Elevator control using BLDC Motor suitable for micro grid",
+      "College_Project_1": "Microcontroller based Home Security System Using GSM technology",
+      "College_Project_2": "Elevator control using BLDC Motor suitable for micro grid",
     },
   "languages": [
     {
