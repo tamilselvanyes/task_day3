@@ -69,8 +69,15 @@ var resume = {
     }
   ]
 }
-console.log(resume.basics.name)
-console.log(resume.basics.address.District)
-console.log(resume.basics.Education[1].Percentage)
-console.log(resume.languages[1].fluency_out_of_5)
-console.log(resume.Hobbies[0].name)
+  console.log(resume.basics_info.name)
+  console.log(resume.basics_info.address.District)
+  console.log(resume.basics_info.Education[1].Percentage)
+  console.log(resume.languages[1].fluency_out_of_5)
+  console.log(resume.Hobbies[0].name)
+
+//  Output:
+//  Tamil Selvan S
+//  Salem
+//  97.6
+//  5
+//  Playing Cricket
